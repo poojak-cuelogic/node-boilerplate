@@ -1,0 +1,15 @@
+{
+        "node_env": "development",
+        "port": 3002,
+        "logger": {
+                "dir": "log",
+                "log_file": "application",
+                "error_file": "error.log",
+                "level": "debug"
+        },
+        "SIGNED_URL_EXPIRATION": 1000,
+        "MYSQL_HOST": "",
+        "MYSQL_DB": "",
+        "MYSQL_USER": "",
+        "MYSQL_PASSWORD": ""
+}
